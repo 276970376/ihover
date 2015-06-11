@@ -4,7 +4,7 @@
 ## Intro
 iHover is a collection of hover effects using pure CSS, inspired by [this codrops article](http://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/), powered by Sass.
 
-**Demo**: http://gudh.github.io/ihover/dist/index.html
+**Demo**: http://276970376.github.io/ihover/dist/index.html
 
 * Pure CSS!
 * Sass CSS
